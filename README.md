@@ -2,8 +2,9 @@
 
 
 I'm **aspiring data scientist**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
-
-<img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' align='center'>
+<p align="center">
+  <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif'>
+</p>
 
 **Pinned**
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science)

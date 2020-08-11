@@ -22,9 +22,9 @@
     <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
 </a>
 numpy, pandas,matplotlib, scikitlearn, tensorflow
-jupyter, excel, sql
+jupyter, excel, sql</br>
 
-</br>
+
 ### Find me around:
 <a href="https://www.linkedin.com/in/shaoncomputergeek/" title='Linkedin'>
     <img align="left" alt="Shaon's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />

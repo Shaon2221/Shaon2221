@@ -17,7 +17,10 @@
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shaoncomputergeek)
 
 **Language & Tools**
-python, numpy, pandas,matplotlib, scikitlearn, tensorflow
+<a href="https://www.python.org/" title='Python'>
+    <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
+numpy, pandas,matplotlib, scikitlearn, tensorflow
 jupyter, excel, sql
 
 

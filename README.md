@@ -39,7 +39,7 @@ jupyter, excel, sql
 </a>                                                                                                            
 <a href="https://medium.com/@shaonsikder" title='Medium'>
     <img align="left" alt="Shaon's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-</a>
+</a></br>
 
 
 ### **Github Generated Stats**

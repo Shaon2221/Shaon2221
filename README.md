@@ -22,7 +22,27 @@ jupyter, excel, sql
 
 
 ### Find me around:
-linkedin, email, github, twitter, fb, website 
+<a href="https://www.linkedin.com/in/shaoncomputergeek/" title='Linkedin'>
+    <img align="left" alt="Shaon's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
+</a>
+<a href="https://mailto:shaonsikder.ewu@gmail.com" title='Email'>
+    <img align="left" alt="Shaon's Email" src=" src="https://img.icons8.com/nolan/32/email.png" />
+</a>
+<a href="https://github.com/Shaon2221" title='Github'>
+    <img align="left" alt="Shaon's Github" src="https://img.icons8.com/ios-filled/32/000000/github.png" />
+</a>
+<a href="https://twitter.com/Shaon2221" title='Twitter'>
+    <img align="left" alt="Shaon Sikder | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
+</a>
+<a href="https://www.facebook.com/Shaon.ComputerGeek/" title='Facebook'>
+    <img align="left" alt="Shaon's's facebook" src="https://img.icons8.com/fluent/32/000000/facebook-new.png" />
+</a>
+<a href="https://sites.google.com/view/shaoncomputergeek" title='Website'>
+    <img align="left" alt="Shaon's Website" src="https://img.icons8.com/color/32/000000/domain--v1.png" />
+</a>                                                                                                            
+<a href="https://medium.com/@shaonsikder" title='Medium'>
+    <img align="left" alt="Shaon's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+</a>
 
 **Github Generated Stats**
 

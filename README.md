@@ -25,9 +25,6 @@ jupyter, excel, sql
 <a href="https://www.linkedin.com/in/shaoncomputergeek/" title='Linkedin'>
     <img align="left" alt="Shaon's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
 </a>
-<a href="mailto:shaonsikder.ewu@gmail.com" title='Email'>
-    <img align="left" alt="Shaon's Email" src=" src="https://img.icons8.com/nolan/32/email.png" />
-</a>
 <a href="https://github.com/Shaon2221" title='Github'>
     <img align="left" alt="Shaon's Github" src="https://img.icons8.com/ios-filled/32/000000/github.png" />
 </a>
@@ -43,6 +40,7 @@ jupyter, excel, sql
 <a href="https://medium.com/@shaonsikder" title='Medium'>
     <img align="left" alt="Shaon's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
+
 
 
 

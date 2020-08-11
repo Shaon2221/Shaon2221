@@ -25,6 +25,7 @@ jupyter, excel, sql
 linkedin, email, github, twitter, fb, website 
 
 ## **Github Generated Stats**
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Shaon2221/github-readme-stats)*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaon2221&theme=radical)
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaon2221&hide=prs,issues,contribs?username=Shaon2221&count_private=true?username=Shaon2221&show_icons=true&theme=radical)
 

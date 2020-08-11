@@ -3,7 +3,7 @@
 
 **Aspiring data scientist**, a **Deep Learning**,**Machine Learning** **Practitioner** and **Learner**.
 <p align="center">
-  <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=700>
+  <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600>
 </p>
 
 **Pinned**

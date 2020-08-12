@@ -43,7 +43,7 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=32, width=35 />
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
-    <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=48, width=55 />
+    <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=32, width=34 />
 </a></br>  <br>
 ### Find me around:
 <a href="https://www.linkedin.com/in/shaoncomputergeek/" title='Linkedin'>

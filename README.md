@@ -19,28 +19,28 @@
 **Language & Tools:**
 </br>
 <a href="https://www.python.org/" title='Python'>
-    <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img align="left" src="https://img.icons8.com/color/32/000000/python.png" />
 </a>
 <a href="https://numpy.org/" title='Numpy'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height=40, width=80 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height=28, width=37 />
 </a>
 <a href="https://pypi.org/project/pandas/" title='Pandas'>
-    <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=48, width=80 />
+    <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=32, width=42 />
 </a>
 <a href="https://matplotlib.org/" title='matplotlib'>
-    <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=48, width=80 />
+    <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=32, width=42 />
 </a>
 <a href="https://scikit-learn.org/" title='sci-kit learn'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=48, width=80 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=32, width=42 />
 </a>
 <a href="https://www.tensorflow.org/" title='TensorFlow'>
-    <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/logo.png" height=48, width=80 />
+    <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/logo.png" height=32, width=42 />
 </a>
 <a href="https://jupyter.org/" title='Jupyter Notebook'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height=48, width=65 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height=32, width=38 />
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365/excel/" title='Excel'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=48, width=55 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=32, width=35 />
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=48, width=55 />

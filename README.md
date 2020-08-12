@@ -8,7 +8,7 @@
 
 **Pinned**
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science)
-
+- ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 
 **Updates:**
 - 🔭 I’m currently working on [Future Sales  Prediction](https://github.com/Shaon2221)

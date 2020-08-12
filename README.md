@@ -44,7 +44,7 @@
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=48, width=60 />
-</a></br>  
+</a></br>  <br>
 ### Find me around:
 <a href="https://www.linkedin.com/in/shaoncomputergeek/" title='Linkedin'>
     <img align="left" alt="Shaon's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />

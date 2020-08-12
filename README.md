@@ -28,7 +28,7 @@
     <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=34, width=47 />
 </a>
 <a href="https://matplotlib.org/" title='matplotlib'>
-    <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=38, width=45 />
+    <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=42, width=45 />
 </a>
 <a href="https://scikit-learn.org/" title='sci-kit learn'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=34, width=45 />

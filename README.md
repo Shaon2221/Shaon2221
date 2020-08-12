@@ -27,6 +27,9 @@
 <a href="https://pypi.org/project/pandas/" title='Pandas'>
     <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=48, width=80 />
 </a>
+<a href="https://matplotlib.org/" title='matplotlib'>
+    <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=48, width=80 />
+</a>
 numpy, pandas,matplotlib, scikitlearn, tensorflow
 jupyter, excel, sql</br>
 

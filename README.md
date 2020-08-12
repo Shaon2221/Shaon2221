@@ -33,8 +33,19 @@
 <a href="https://scikit-learn.org/" title='sci-kit learn'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=48, width=80 />
 </a>
-numpy, pandas,matplotlib, scikitlearn, tensorflow
-jupyter, excel, sql</br>
+<a href="https://www.tensorflow.org/" title='TensorFlow'>
+    <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/logo.png" height=48, width=80 />
+</a></br>
+<a href="https://jupyter.org/" title='Jupyter Notebook'>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height=48, width=80 />
+</a>
+<a href="https://www.microsoft.com/en/microsoft-365/excel/" title='Excel'>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=48, width=60 />
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
+    <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=48, width=60 />
+</a>
+
 
 
 ### Find me around:

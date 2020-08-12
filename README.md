@@ -35,8 +35,7 @@
 </a>
 <a href="https://www.tensorflow.org/" title='TensorFlow'>
     <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/logo.png" height=48, width=80 />
-</a></br>
-
+</a>
 <a href="https://jupyter.org/" title='Jupyter Notebook'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height=48, width=80 />
 </a>

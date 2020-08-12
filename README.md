@@ -21,6 +21,10 @@
 <a href="https://www.python.org/" title='Python'>
     <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
 </a>
+<a href="https://www.python.org/" title='Python'>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height=48, width=48 />
+</a>
+
 numpy, pandas,matplotlib, scikitlearn, tensorflow
 jupyter, excel, sql</br>
 

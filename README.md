@@ -30,6 +30,9 @@
 <a href="https://matplotlib.org/" title='matplotlib'>
     <img align="left" src="https://matplotlib.org/_static/logo2_compressed.svg" height=48, width=80 />
 </a>
+<a href="https://scikit-learn.org/" title='sci-kit learn'>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=48, width=80 />
+</a>
 numpy, pandas,matplotlib, scikitlearn, tensorflow
 jupyter, excel, sql</br>
 

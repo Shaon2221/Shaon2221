@@ -22,7 +22,7 @@
     <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
 </a>
 <a href="https://numpy.org/" title='Numpy'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height=48, width=80 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height=40, width=80 />
 </a>
 <a href="https://pypi.org/project/pandas/" title='Pandas'>
     <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=48, width=80 />

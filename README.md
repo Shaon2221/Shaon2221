@@ -1,12 +1,12 @@
 ### Hey there, I'm [__Shaon__!](https://sites.google.com/view/shaoncomputergeek) 👋 :computer:
 
 
-**Aspiring data scientist**, a **Deep Learning**,**Machine Learning** **Practitioner** and **Learner**.
+**Aspiring Data Scientist**, a **Deep Learning**,**Machine Learning** **Practitioner** and **Learner**.
 <p align="left">
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>
 </p>
 
-**Pinned**
+**Pinned:**
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 
@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shaoncomputergeek)
 
-**Language & Tools**
+**Language & Tools:**
 </br>
 <a href="https://www.python.org/" title='Python'>
     <img align="left" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -45,6 +45,7 @@
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=48, width=60 />
 </a></br>
+
 
 
 

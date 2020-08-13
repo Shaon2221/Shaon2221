@@ -74,7 +74,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaon2221&theme=radical)
 ![Shaon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaon2221&hide=prs,issues,contribs?username=Shaon2221&count_private=true?username=Shaon2221&show_icons=true&theme=radical)
 
-*NOTE: Top languages does not indicate my skill level or something like that*
+*NOTE: Top languages does not indicate my skill level or something like that.*
 
 
 

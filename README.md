@@ -56,7 +56,7 @@
     <img align="left" alt="Shaon's Website" src="https://img.icons8.com/color/32/000000/domain--v1.png" />
 </a> 
 <a href="https://www.kaggle.com/shaon2221" title='Kaggle'>
-    <img align="left" alt="Shaon's Website" src="https://c7.uihere.com/files/399/47/771/kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-thumb.jpg" height=32 width=40 />
+    <img align="left" alt="Shaon's Website" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height=32 width=32 />
 </a>  
 <a href="https://twitter.com/Shaon2221" title='Twitter'>
     <img align="left" alt="Shaon Sikder | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />

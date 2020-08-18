@@ -7,7 +7,7 @@
 </p>
 
 **Pinned:**
-- ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science)
+- ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science)
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 

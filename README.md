@@ -8,12 +8,13 @@
 
 **Pinned:**
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science)
+- ⚡ [Real Time Tweet Analysis on US Election 2020](https://github.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020)
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 
 **Updates:**
 - 🔭 I’m currently working on [Future Sales  Prediction](https://github.com/Shaon2221)
-- 🌱 I’m currently learning from [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/) and [Fast.ai](https://course.fast.ai/#).
+- 🌱 I’m currently learning from [Kaggle](https://www.kaggle.com/Shaon2221), [Coursera](https://www.coursera.org/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shaoncomputergeek)
 

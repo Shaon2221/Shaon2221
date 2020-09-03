@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on [Future Sales  Prediction](https://github.com/Shaon2221)
 - 🌱 I’m currently learning from [Kaggle](https://www.kaggle.com/Shaon2221), [Coursera](https://www.coursera.org/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
-- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shaoncomputergeek)
 
 **Language & Tools:**
 </br>

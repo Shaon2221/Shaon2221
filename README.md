@@ -9,7 +9,7 @@
 **Pinned:**
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science)
 - ⚡ [Real Time Tweet Analysis on US Election 2020](https://github.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020)
-- ⚡ [Insights-Extraction-from-my-own-Facebook-Profile-Data](https://github.com/Shaon2221/Insights-Extraction-from-my-own-Facebook-Profile-Data)
+- ⚡ [Insights Extraction from my own Facebook Profile Data](https://github.com/Shaon2221/Insights-Extraction-from-my-own-Facebook-Profile-Data)
 - ⚡ [Data Science Job Analysis & Salary Prediction](https://github.com/Shaon2221/Data-Science-Job-Analysis/)
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)

@@ -46,7 +46,7 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=32, width=35 />
 </a>
 <a href="https://www.tableau.com/" title='Tableau'>
-    <img align="left" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/tableau-logo.png" height=32, width=60 />
+    <img align="left" src="https://cabinetm-beta.s3.amazonaws.com/00000162-16f6-6cb2-8393-e42bac3ec6b8.png" height=32, width=60 />
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=32, width=34 />

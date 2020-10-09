@@ -45,6 +45,9 @@
 <a href="https://www.microsoft.com/en/microsoft-365/excel/" title='Excel'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=32, width=35 />
 </a>
+<a href="https://www.tableau.com/" title='Tableau'>
+    <img align="left" src="https://cdns.tblsft.com/sites/default/files/media/tableau-logo-transparent-fff.png" height=32, width=35 />
+</a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=32, width=34 />
 </a></br>  <br>

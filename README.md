@@ -37,16 +37,16 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=34, width=45 />
 </a>
 <a href="https://www.tensorflow.org/" title='TensorFlow'>
-    <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/logo.png" height=34, width=47 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/512px-TensorFlow_logo.svg.png" height=34, width=47 />
 </a>
 <a href="https://jupyter.org/" title='Jupyter Notebook'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height=32, width=42 />
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365/excel/" title='Excel'>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/611px-Microsoft_Excel_2013_logo.svg.png" height=32, width=35 />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height=32, width=35 />
 </a>
 <a href="https://www.tableau.com/" title='Tableau'>
-    <img align="left" src="https://zdnet4.cbsistatic.com/hub/i/r/2017/10/12/e52016a8-e234-47d4-8095-d3054d4d50a2/resize/370xauto/556c162026e62a92994d3320770d524c/tableau-logo.png" height=32, width=60 />
+    <img align="left" src="https://www.analyticsvidhya.com/wp-content/uploads/2016/09/tableau.png" height=32, width=60 />
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" title='SQL'>
     <img align="left" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height=32, width=34 />

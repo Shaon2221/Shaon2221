@@ -1,7 +1,7 @@
 ## Hey there, I'm [__Shaon__!](https://sites.google.com/view/shaoncomputergeek) 👋 :computer:
    
  
-**Aspiring Data Scientist**, a **Deep Learning**, **Machine Learning Practitioner** and **Learner**.
+**Aspiring Data Scientist**, a **Deep Learning**, **Machine Learning Practitioner** and **Learner**. 
 <p align="left"> 
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>
 </p>  

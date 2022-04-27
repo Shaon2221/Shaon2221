@@ -1,7 +1,7 @@
 ## Hey there, I'm [__Shaon__!](https://sites.google.com/view/shaoncomputergeek) 👋 :computer:
    
  
-**Aspiring Data Scientist**, a **Deep Learning**, **Machine Learning Practitioner** and **Learner**.    
+**AI Engineer**, **Data Scientist**, ** Practitioner** and **Learner**.    
 <p align="left"> 
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>
 </p>    
@@ -15,7 +15,7 @@
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 
 **Updates:**
-- 🔭 I’m currently working on [Future Sales  Prediction](https://github.com/Shaon2221)
+- 🔭 I’m currently working in [Opus Technology Ltd](https://opus-bd.com/) as AI Engineer
 - 🌱 I’m currently learning from [Business Intelligence and Data Analytics(Macquarie University)](https://www.coursera.org/learn/business-intelligence-data-analytics1), [Analyzing and Visualizing Data with Excel(Microsoft)](https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2) and [SQL for Data Science(IBM)](https://www.edx.org/course/sql-for-data-science).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 

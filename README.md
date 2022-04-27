@@ -70,7 +70,7 @@
 <a href="https://www.facebook.com/Shaon.ComputerGeek/" title='Facebook'>
     <img align="left" alt="Shaon's's facebook" src="https://img.icons8.com/fluent/32/000000/facebook-new.png" />
 </a>                                                                                                        
-<a href="https://medium.com/@shaonsikder" title='Medium'>
+<a href="https://medium.com/@shaon2221" title='Medium'>
     <img align="left" alt="Shaon's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a></br>
 

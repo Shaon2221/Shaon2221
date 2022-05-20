@@ -17,7 +17,7 @@
 **Updates:**
 - 🔭 I’m currently working in [Opus Technology Ltd](https://opus-bd.com/) as AI Engineer
 - 🌱 I’m currently learning from [Business Intelligence and Data Analytics(Macquarie University)](https://www.coursera.org/learn/business-intelligence-data-analytics1), [Analyzing and Visualizing Data with Excel(Microsoft)](https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2) and [SQL for Data Science(IBM)](https://www.edx.org/course/sql-for-data-science).
-- 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
+- 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**. 
 
 **Language & Tools:** 
 </br>

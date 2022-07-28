@@ -2,7 +2,7 @@
    
  
 **AI Engineer**, **Data Scientist**, ** Practitioner** and **Learner**.     
-<p align="left"> 
+<p align="left">  
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>
 </p>    
 

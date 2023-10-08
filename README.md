@@ -2,7 +2,7 @@
    
  
 **AI Engineer**, **Lead Data Scientist**, **Practitioner** and **Continuous Learner**.      
-<p align="left">   
+<p align="left">    
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>
 </p>    
  

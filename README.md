@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning from [Business Intelligence and Data Analytics(Macquarie University)](https://www.coursera.org/learn/business-intelligence-data-analytics1), [Analyzing and Visualizing Data with Excel(Microsoft)](https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2) and [SQL for Data Science(IBM)](https://www.edx.org/course/sql-for-data-science). 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **LLM** projects which can have positive impact on society. 
 
-**Language & Tools:** 
+**Language & Tools:**
 </br>
 <a href="https://www.python.org/" title='Python'>
     <img align="left" src="https://img.icons8.com/color/34/000000/python.png" />

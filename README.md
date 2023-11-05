@@ -28,7 +28,7 @@
 </a>
 <a href="https://pypi.org/project/pandas/" title='Pandas'>
     <img align="left" src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height=34, width=47 />
-</a>
+</a> 
 <a href="https://scikit-learn.org/" title='sci-kit learn'>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height=34, width=45 />
 </a>

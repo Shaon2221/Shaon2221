@@ -13,7 +13,7 @@
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
 
-**Updates:** 
+**Updates:**
 - 🔭 I’m currently working in [Easital Technologies Ltd](https://easital.com/) as AI Engineer
 - 🌱 I’m currently learning from [Business Intelligence and Data Analytics(Macquarie University)](https://www.coursera.org/learn/business-intelligence-data-analytics1), [Analyzing and Visualizing Data with Excel(Microsoft)](https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2) and [SQL for Data Science(IBM)](https://www.edx.org/course/sql-for-data-science). 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **LLM** projects which can have positive impact on society. 

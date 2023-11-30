@@ -1,4 +1,4 @@
-## Hey there, I'm [__Shaon__!](https://sites.google.com/view/shaoncomputergeek) 👋 :computer:
+## Hey there, I'm [__Shaon__!](https://www.linkedin.com/in/shaon2221/) 👋 :computer:
  
 **AI Engineer**, **Lead Data Scientist**, **Practitioner** and **Continuous Learner**.      
 <p align="left">
@@ -7,6 +7,7 @@
 
 **Pinned:** 
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science)
+- ⚡ [Walmart SalesBot and SearchGPT](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT)
 - ⚡ [Real Time Tweet Analysis on US Election 2020](https://github.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020)
 - ⚡ [Data Science Job Analysis & Salary Prediction](https://github.com/Shaon2221/Data-Science-Job-Analysis/)
 - ⚡ [Insights Extraction from my own Facebook Profile Data](https://github.com/Shaon2221/Insights-Extraction-from-my-own-Facebook-Profile-Data)
@@ -15,7 +16,7 @@
 
 **Updates:**
 - 🔭 I’m currently working in [Easital Technologies Ltd](https://easital.com/) as AI Engineer
-- 🌱 I’m currently learning from [Business Intelligence and Data Analytics(Macquarie University)](https://www.coursera.org/learn/business-intelligence-data-analytics1), [Analyzing and Visualizing Data with Excel(Microsoft)](https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2) and [SQL for Data Science(IBM)](https://www.edx.org/course/sql-for-data-science). 
+- 🌱 Exploring Explainable AI, Ethics, Safety, and Trustworthiness of Large Language Models, and Generative AI to enhance human life quality. Trying to build Large Language Models (LLMs) application that are applicable to real-world scenarios, by addressing inherent limitations of current LLMs.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **LLM** projects which can have positive impact on society. 
 
 **Language & Tools:** 

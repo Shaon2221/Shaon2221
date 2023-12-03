@@ -18,7 +18,7 @@
 - 🔭 I’m currently working in [Easital Technologies Ltd](https://easital.com/) as AI Engineer
 - 🌱 Exploring Explainable AI, Ethics, Safety, and Trustworthiness of Large Language Models, and Generative AI to enhance human life quality. Trying to build Large Language Models (LLMs) application that are applicable to real-world scenarios, by addressing inherent limitations of current LLMs.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **LLM** projects which can have positive impact on society. 
-
+  
 **Language & Tools:** 
 </br>
 <a href="https://www.python.org/" title='Python'>

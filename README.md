@@ -12,7 +12,7 @@
 - ⚡ [Data Science Job Analysis & Salary Prediction](https://github.com/Shaon2221/Data-Science-Job-Analysis/)
 - ⚡ [Insights Extraction from my own Facebook Profile Data](https://github.com/Shaon2221/Insights-Extraction-from-my-own-Facebook-Profile-Data)
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
-- ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis)
+- ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis) 
 
 **Updates:**
 - 🔭 I’m currently working in [Easital Technologies Ltd](https://easital.com/) as AI Engineer

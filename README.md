@@ -14,7 +14,7 @@
 - ⚡ [Fake News Detection using LSTM](https://github.com/Shaon2221/Fake-News-Detection-using-LSTM)
 - ⚡ [Sales Data Analysis](https://github.com/Shaon2221/Sales-Data-Analysis) 
 
-**Updates:**
+**Updates:** 
 - 🔭 I’m currently working in [Easital Technologies Ltd](https://easital.com/) as AI Engineer
 - 🌱 Exploring Explainable AI, Ethics, Safety, and Trustworthiness of Large Language Models, and Generative AI to enhance human life quality. Trying to build Large Language Models (LLMs) application that are applicable to real-world scenarios, by addressing inherent limitations of current LLMs.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **LLM** projects which can have positive impact on society. 

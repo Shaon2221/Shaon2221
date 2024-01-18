@@ -7,7 +7,7 @@
      
 **Pinned:** 
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science) 
-- ⚡ [Walmart SalesBot and SearchGPT](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT)
+- ⚡ [Walmart SalesBot and SearchGPT](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT) 
 - ⚡ [Real Time Tweet Analysis on US Election 2020](https://github.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020)
 - ⚡ [Data Science Job Analysis & Salary Prediction](https://github.com/Shaon2221/Data-Science-Job-Analysis/)
 - ⚡ [Insights Extraction from my own Facebook Profile Data](https://github.com/Shaon2221/Insights-Extraction-from-my-own-Facebook-Profile-Data)

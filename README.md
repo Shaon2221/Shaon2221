@@ -5,7 +5,7 @@
   <img src='https://media.giphy.com/media/hrjrmB5VRtjyJc2jBa/giphy.gif' width=600 height=100>  
 </p> 
      
-**Pinned:** 
+**Pinned:**  
 - ⚡ [Learning & Experimenting Data Science](https://github.com/Shaon2221/Learning-and-Experimenting_Data-Science) 
 - ⚡ [Walmart SalesBot and SearchGPT](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT) 
 - ⚡ [Real Time Tweet Analysis on US Election 2020](https://github.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020)

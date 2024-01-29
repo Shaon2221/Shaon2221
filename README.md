@@ -3,15 +3,13 @@
 **AI Engineer** | **Ex-Lead Data Scientist** | **Practitioner** | **Continuous Learner** | **Active Researcher**
      
 <p align="left"> 
-  <img src='https://i.yourimageshare.com/cD5jVYjrbb.png' style="height: 400px;">  
+  <img src='https://i.yourimageshare.com/cD5jVYjrbb.png' style="height: 300px;">  
 </p> 
 
 # Summary:
 - 🔭 Experienced AI Engineer (3+ years) specializing in Large Language Models, Machine Learning, and Deep Learning Algorithms.
 - 💫 Crafting ethical and explainable LLMs & AI solutions for real-world impact.
 - 🌱 Prioritizing safety, well-being, and responsible innovation.
-</br>
-</br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,7 +26,6 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-</br>
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/shaon2221/" title='LinkedIn'>

@@ -1,6 +1,6 @@
 ## Hey there, I'm [Shaon](https://www.linkedin.com/in/shaon2221/) 👋 :computer:
 
-**AI Engineer** | **Ex-Lead Data Scientist** | **Practitioner** | **Continuous Learner** | **Active Researcher**
+**AI Engineer** | **Ex-Lead Data Scientist** | **Practitioner** | **Continuous Learner** | **Active Researcher** 
      
 <p align="left"> 
   <img src='https://i.yourimageshare.com/cD5jVYjrbb.png' style="height: 300px;">  

@@ -3,7 +3,7 @@
 **AI Engineer** | **Ex-Lead Data Scientist** | **Practitioner** | **Continuous Learner** | **Active Researcher** 
      
 <p align="left"> 
-  <img src='https://i.yourimageshare.com/cD5jVYjrbb.png' style="height: 300px;">  
+  <img src='https://i.yourimageshare.com/cD5jVYjrbb.png' style="height: 300px;">   
 </p> 
 
 # Summary:

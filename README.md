@@ -7,7 +7,7 @@
 </p> 
 
 # Summary: 
-- 🔭 Experienced AI Engineer (3+ years) specializing in Large Language Models, Machine Learning, and Deep Learning Algorithms.
+- 🔭 Experienced AI Engineer (3+ years) specializing in Large Language Models, Machine Learning, and Deep Learning Algorithms. 
 - 💫 Crafting ethical and explainable LLMs & AI solutions for real-world impact.
 - 🌱 Prioritizing safety, well-being, and responsible innovation.
 

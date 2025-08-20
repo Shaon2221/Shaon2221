@@ -9,14 +9,14 @@ I care about fast feedback loops, clear communication, and measurable impact.
 ---
 
 ### How I can help
-- Design & ship LLM copilots/agents (LangGraph, CrewAI, LangChain) that actually close loops
+- Design & ship LLM copilots/agents (LangGraph, LangChain, Langsmith, ADK, Pydantic AI, CrewAI, n8n) that actually close loops
 - Fine‑tune and optimize models (GRPO/DPO, LoRA/PEFT, quantization) for cost and latency
 - Build advanced RAG with evals and guardrails (ChromaDB/Milvus/Pinecone + tracing)
 - Production MLOps: Docker/Kubernetes, CI/CD (GitHub Actions/Jenkins), MLflow/DVC on AWS
 
 ### Proof in outcomes
 - +20% user engagement with a fine‑tuned Llama chatbot (Easital)
-- −35% OCR errors via computer vision improvements (Easital)
+- −35% OCR errors via multimodal llm improvements (Easital)
 - +10% lift vs betting odds with esports prediction (Opus)
 - −20% simulated risk using social network analysis (Piana)
 

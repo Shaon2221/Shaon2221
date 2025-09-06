@@ -23,7 +23,7 @@ I care about fast feedback loops, clear communication, and measurable impact.
 ### Recent work
 - Short Circuit Science (2024–Now): medical imaging & sports analytics; multi‑agent copilots; advanced RAG; API backends; AWS/K8s
 - Actionboard.ai / Deep Data Lab (Contract): MCP servers for real‑time intent, knowledge graphs; robust MLOps
-- Delineate (Contract): AI agents for drug discovery; on‑prem LLM search for PK/PD data
+- Delineate (Contract): AI agents for drug discovery; on‑prem LLM search for PK/PD data, fine-tuned LLM
 
 ### Tooling I trust
 Python, PyTorch, TensorFlow, scikit‑learn, FastAPI/Flask/Django, SQL/PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS (EC2, S3, SageMaker, Lambda), MLflow, DVC

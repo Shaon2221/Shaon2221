@@ -1,41 +1,63 @@
-## ⚙️ Shaon Sikder — AI Engineer (GenAI & MLOps)
+# ⚙️ Shaon Sikder — AI Engineer | GenAI & MLOps 
 
-I help teams ship production‑grade LLM features fast — and safely. From fine‑tuning and agents to advanced RAG and AWS/K8s deployments, I build systems that move metrics (engagement up, errors down, time‑to‑value short).
+I design, build, and deploy production-grade LLM applications, multi-agent workflows, and scalable MLOps architectures that bridge the gap between research and real-world engineering. 
 
-• Portfolio: https://shaon2221.github.io  • LinkedIn: https://www.linkedin.com/in/shaon2221  • Email: shaonsikder.ewu@gmail.com  • YouTube: https://www.youtube.com/@DataDiscoveryBD
-
-I care about fast feedback loops, clear communication, and measurable impact.
+🌐 **[Portfolio](https://shaon2221.github.io)**  | 💼 **[LinkedIn](https://www.linkedin.com/in/shaon2221)**  | 📧 **[Email](mailto:shaonsikder.ewu@gmail.com)**  | 🎥 **[YouTube Channel](https://www.youtube.com/@DataDiscoveryBD)** 
 
 ---
 
-### How I can help
-- Design & ship LLM copilots/agents (LangGraph, LangChain, Langsmith, ADK, Pydantic AI, CrewAI, n8n) that actually close loops
-- Fine‑tune and optimize models (GRPO/DPO, LoRA/PEFT, quantization) for cost and latency
-- Build advanced RAG with evals and guardrails (ChromaDB/Milvus/Pinecone + tracing)
-- Production MLOps: Docker/Kubernetes, CI/CD (GitHub Actions/Jenkins), MLflow/DVC on AWS
+### 🚀 How I Can Help
+* **Agentic Systems & Copilots:** Engineering stateful, multi-agent architectures (using LangGraph, CrewAI, and OpenAI Agent SDK) that automate complex enterprise and clinical workflows.
+* **Advanced RAG Pipelines:** Architecting robust Retrieval-Augmented Generation pipelines integrated with vector databases (ChromaDB, Milvus, Pinecone) and layered security for explainable data analytics.
+* **Model Optimization:** Fine-tuning open-source LLMs (like Gemma) using QLoRA/PEFT and applying quantization techniques to optimize cost, latency, and domain accuracy.
+* **Production MLOps:** Building end-to-end CI/CD infrastructure, containerized deployments (Docker, Kubernetes), and cloud orchestration on AWS (SageMaker, EC2, Lambda, S3).
 
-### Proof in outcomes
-- +20% user engagement with a fine‑tuned Llama chatbot (Easital)
-- −35% OCR errors via multimodal llm improvements (Easital)
-- +10% lift vs betting odds with esports prediction (Opus)
-- −20% simulated risk using social network analysis (Piana)
+---
 
-### Recent work
-- Short Circuit Science (2024–Now): medical imaging & sports analytics; multi‑agent copilots; advanced RAG; API backends; AWS/K8s
-- Actionboard.ai / Deep Data Lab (Contract): MCP servers for real‑time intent, knowledge graphs; robust MLOps
-- Delineate (Contract): AI agents for drug discovery; on‑prem LLM search for PK/PD data, fine-tuned LLM
+### 📈 Proof in Outcomes
+* **+10% Accuracy Lift:** Developed an esports prediction model utilizing rigorous statistical analysis that outpaced traditional betting odds.
+* **+20% User Engagement:** Optimized user interaction metrics through a fine-tuned open-source chatbot deployment.
+* **-35% OCR Errors:** Significantly upgraded data extraction reliability via targeted multimodal LLM improvements.
+* **-20% Simulated Risk:** Engineered predictive network logic to minimize operational vulnerabilities.
 
-### Tooling I trust
-Python, PyTorch, TensorFlow, scikit‑learn, FastAPI/Flask/Django, SQL/PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS (EC2, S3, SageMaker, Lambda), MLflow, DVC
+---
 
-### Also teaching & building in public
-- Instructor: Generative AI (Horizon Solutions, 2024) • Fundamentals of AI (Skill Hunt, 2021)
-- Creator: Data Discovery — practical GenAI tutorials and experiments
+### 💼 Recent Work
 
-### Research (ongoing)
-Transfer learning for bone marrow classification • Thermal comfort ML + XAI • Federated learning in smart buildings
+#### **Full-Stack AI Engineer** | Ajentica AI  
+*Nov 2025 – Present | Dhaka, Bangladesh* 
+* Architecting multi-agent clinical systems using LangGraph and OpenAI Agent SDK to accelerate healthcare data analytics.
+* Developing secure, high-performance backend APIs with FastAPI to orchestrate complex agent workflows.
 
-### Education
-BSc, Information & Communication Engineering — East West University (GPA 3.46/4.0)
+#### **AI Engineer** | Short Circuit Science  
+*Jan 2025 – Oct 2025 | Dhaka, Bangladesh* 
+* Designed autonomous agentic setups for e-commerce automation and multi-agent systems for drug discovery using CrewAI and ChromaDB.
+* Managed full application lifecycles using Docker, Kubernetes, and automated CI/CD pipelines on AWS.
 
-— If you’re exploring LLMs/agents or need a production‑ready RAG/MLOps setup, let’s talk. 🚀
+#### **AI Engineer (Contractual)** | Delineate (YC W25)  
+*July 2023 – Dec 2024 | Remote* 
+* Built AI agents to parse millions of scientific papers, fine-tuned Gemma models via QLoRA, and built secure on-premises search engines for pharmacokinetics data.
+
+---
+
+### 🛠️ Tooling I Trust
+
+| Category | Technologies |
+| :--- | :--- |
+| **Generative AI** | LLM Fine-tuning (LoRA/PEFT, Quantization), LangGraph, CrewAI, LangChain, Prompt Engineering  |
+| **Vector DBs** | ChromaDB, Milvus, Pinecone  |
+| **Core Frameworks** | Python, FastAPI, Django, Flask, PyTorch, TensorFlow, Scikit-learn, Pandas  |
+| **MLOps & DevOps** | Docker, Kubernetes, GitHub Actions, AWS (SageMaker, EC2, S3, Lambda), MLflow, DVC  |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+
+---
+
+### 📚 Teaching & Building in Public
+* **Data Discovery (YouTube):** I run a technical channel sharing practical tutorials on Generative AI architectures, RAG systems, and paper reviews.
+* **AI Instructor:** Delivered basic-to-advanced GenAI curriculums (Transformers, Vector DBs, Agentic Frameworks) at Horizon Solutions and taught AI fundamentals at Skill Hunt.
+* **Ongoing Research:** Focused on Transfer Learning for Bone Marrow Classification and Thermal Comfort Analysis using Explainable AI (XAI).
+
+---
+
+### 🎓 Education
+* **BSc. in Information and Communication Engineering** – East West University (GPA: 3.46/4.0) 
